@@ -1,12 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://etslive-2-vidio-com.akamaized.net/exp=1695556689~acl=/hls-p/ingest_14792_*/*~hmac=52e3a6e2ff30cc94b34da9d42b19a569e0e4bd9e6dc5bf1b7aa1548e86470d9b/hls-p/ingest_14792_1080p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1695643252~acl=/hls-p/ingest_14793_*/*~hmac=a422a71fb4c70abeeb9de024253883affb741b31def5e47dac054ac3168f799f/hls-p/ingest_14793_1080p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1695556689~acl=/hls-p/ingest_14792_*/*~hmac=52e3a6e2ff30cc94b34da9d42b19a569e0e4bd9e6dc5bf1b7aa1548e86470d9b/hls-p/ingest_14792_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1695643252~acl=/hls-p/ingest_14793_*/*~hmac=a422a71fb4c70abeeb9de024253883affb741b31def5e47dac054ac3168f799f/hls-p/ingest_14793_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://etslive-2-vidio-com.akamaized.net/exp=1695556689~acl=/hls-p/ingest_14792_*/*~hmac=52e3a6e2ff30cc94b34da9d42b19a569e0e4bd9e6dc5bf1b7aa1548e86470d9b/hls-p/ingest_14792_480p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1695643252~acl=/hls-p/ingest_14793_*/*~hmac=a422a71fb4c70abeeb9de024253883affb741b31def5e47dac054ac3168f799f/hls-p/ingest_14793_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://etslive-2-vidio-com.akamaized.net/exp=1695556689~acl=/hls-p/ingest_14792_*/*~hmac=52e3a6e2ff30cc94b34da9d42b19a569e0e4bd9e6dc5bf1b7aa1548e86470d9b/hls-p/ingest_14792_360p/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://etslive-2-vidio-com.akamaized.net/exp=1695556689~acl=/hls-p/ingest_14792_*/*~hmac=52e3a6e2ff30cc94b34da9d42b19a569e0e4bd9e6dc5bf1b7aa1548e86470d9b/hls-p/ingest_14792_240p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1695643252~acl=/hls-p/ingest_14793_*/*~hmac=a422a71fb4c70abeeb9de024253883affb741b31def5e47dac054ac3168f799f/hls-p/ingest_14793_360p/index.m3u8
